@@ -44,7 +44,7 @@ export default function Page() {
             width={500}
             height={620}
             className="block md:hidden"
-            atl="Screenshoots of the dashboard project mobile version"
+            alt="Screenshoots of the dashboard project mobile version"
           />
         </div>
       </div>
